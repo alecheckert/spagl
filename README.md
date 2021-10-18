@@ -1,6 +1,8 @@
 # spagl
 State arrays for resolving fast mixtures of Brownian motions in short single particle trajectories
 
+**Note: spagl is an early prototype for the state array algorithm. We highly recommend you use the production version, see https://github.com/alecheckert/saspt.**
+
 ## What does it do?
 
 `spagl` represents single particle tracking (SPT) data as
